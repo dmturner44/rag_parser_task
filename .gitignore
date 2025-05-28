@@ -64,9 +64,5 @@ coverage.xml
 parse_scores.json
 *.txt
 *.jsonl
-*.pdf
-*.jpg
-*.xlsx
-*.docx
 *.csv
 !requirements.txt
