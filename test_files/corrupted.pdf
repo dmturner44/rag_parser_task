@@ -1,0 +1,4 @@
+%PDF-1.4
+% This is a deliberately corrupted PDF file for testing purposes.
+This is not a valid PDF content and should cause PDF parsers to fail.
+%%EOF 
