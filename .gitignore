@@ -69,7 +69,4 @@ parse_scores.json
 *.xlsx
 *.docx
 *.csv
-
-# Ignore large data/test files (customize as needed)
-test_files/
-DocBank_test_files/ 
+!requirements.txt
