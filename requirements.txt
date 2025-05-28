@@ -1,0 +1,7 @@
+langchain-community
+pdf2image
+pytesseract
+Pillow
+pdfminer.six
+pi-heif
+pytest
